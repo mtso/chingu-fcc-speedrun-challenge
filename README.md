@@ -1,4 +1,6 @@
-# Chingu FCC Speedrun Challenge
+# Augmented Chingu FCC Speedrun Challenge
+
+Augmented Chingu Speedrun, one part practical projects and one part theory.
 
 ## Details
 
@@ -25,7 +27,7 @@ Integrate all of the FCC Projects you created in Phase 1 into one comprehensive 
 
 Current challenge - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-april-may-2017-countdown-clock)    
 
-Original challenge - Completed in March 2017 - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-countdown-clock) 
+Original challenge - Completed in March 2017 - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-countdown-clock)
 
 
 ### The Rules
@@ -38,7 +40,7 @@ Original challenge - Completed in March 2017 - [Countdown Clock](https://countin
 * All code for Phase 1 should be committed to your fork of this repo.
 * Phase 2 code should be in a separate repository each participant creates to contain their personal Portfolio SPA.
 * You may ask for help and help others - preference should always be given to helping someone understand, not handing them code they don't.
-* If someone is stuck, you may pair with them to help them get unstuck (on as many projects as you want) even if you're doing your own entry separately or with another pair. 
+* If someone is stuck, you may pair with them to help them get unstuck (on as many projects as you want) even if you're doing your own entry separately or with another pair.
 * If someone pairs with you to help you get unstuck, be sure to make a note to credit them in your repo and in your blog posts.
 
 ### Deliverables
@@ -71,7 +73,7 @@ Copy this table as needed to make a separate table for each team member for reco
 |      |  [ ]()  | [Build a Wikipedia Viewer](./frontend/wikipedia-viewer) |  |
 |      |  [ ]()  | [Use the Twitch.tv JSON API](./frontend/twitch-client) |  |
 |      |  [ ]()  | [Build a JavaScript Calculator](./frontend/calculator) |  |
-|      |  [ ]()  | [Build a Pomodoro Clock](./frontend/pomodoro-clock) |  |
+| Yep~ |  [Speedrun Kickstart](https://apb.mtso.io/speedrun-kickstart/)  | [Build a Pomodoro Clock](./frontend/pomodoro-clock) |  |
 |      |  [ ]()  | [Build a Tic Tac Toe Game](./frontend/tictactoe-game) |  |
 |      |  [ ]()  | [Build a Simon Game](./frontend/simon-game) |  |
 |      |  [ ]()  | [Build a Markdown Previewer](./data-vis/markdown-previewer) |  |
@@ -94,5 +96,25 @@ Copy this table as needed to make a separate table for each team member for reco
 |      |  [ ]()  | [Chart the Stock Market](./backend/app-stock-market) |  |
 |      |  [ ]()  | [Manage a Book Trading Club](./backend/app-book-trading) |  |
 |      |  [ ]()  | [Build a Pinterest Clone](./backend/app-pinterest-clone) |  |
-
-
+|      |  [ ]()  | [SICP 1.1](./sicp/1.1) |  |
+|      |  [ ]()  | [SICP 1.2](./sicp/1.2) |  |
+|      |  [ ]()  | [SICP 1.3](./sicp/1.3) |  |
+|      |  [ ]()  | [SICP 2.1](./sicp/2.1) |  |
+|      |  [ ]()  | [SICP 2.2](./sicp/2.2) |  |
+|      |  [ ]()  | [SICP 2.3](./sicp/2.3) |  |
+|      |  [ ]()  | [SICP 2.4](./sicp/2.4) |  |
+|      |  [ ]()  | [SICP 2.5](./sicp/2.5) |  |
+|      |  [ ]()  | [SICP 3.1](./sicp/3.1) |  |
+|      |  [ ]()  | [SICP 3.2](./sicp/3.2) |  |
+|      |  [ ]()  | [SICP 3.3](./sicp/3.3) |  |
+|      |  [ ]()  | [SICP 3.4](./sicp/3.4) |  |
+|      |  [ ]()  | [SICP 3.5](./sicp/3.5) |  |
+|      |  [ ]()  | [SICP 4.1](./sicp/4.1) |  |
+|      |  [ ]()  | [SICP 4.2](./sicp/4.2) |  |
+|      |  [ ]()  | [SICP 4.3](./sicp/4.3) |  |
+|      |  [ ]()  | [SICP 4.4](./sicp/4.4) |  |
+|      |  [ ]()  | [SICP 5.1](./sicp/5.1) |  |
+|      |  [ ]()  | [SICP 5.2](./sicp/5.2) |  |
+|      |  [ ]()  | [SICP 5.3](./sicp/5.3) |  |
+|      |  [ ]()  | [SICP 5.4](./sicp/5.4) |  |
+|      |  [ ]()  | [SICP 5.5](./sicp/5.5) |  |
