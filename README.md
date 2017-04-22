@@ -81,9 +81,9 @@ Copy this table as needed to make a separate table for each team member for reco
 |      |  [ ]()  | [Build a Recipe Box](./data-vis/recipe-box) |  |
 |      |  [ ]()  | [Build the Game of Life](./data-vis/game-of-life) |  |
 |      |  [ ]()  | [Build a Roguelike Dungeon Crawler](./data-vis/dungeon-crawler) |  |
-|      |  [ ]()  | [Visualize Data with a Bar Chart](./data-vis/bar-chart) |  |
-|      |  [ ]()  | [Visualize Data with a Scatterplot Graph](./data-vis/scatterplot-graph) |  |
-|      |  [ ]()  | [Visualize Data with a Heat Map](./data-vis/heat-map) |  |
+| Yep~ |  [ ]()  | [Visualize Data with a Bar Chart](./data-vis/bar-chart) |  |
+| Yep~ |  [ ]()  | [Visualize Data with a Scatterplot Graph](./data-vis/scatterplot-graph) |  |
+| Yep~ |  [ ]()  | [Visualize Data with a Heat Map](./data-vis/heat-map) |  |
 |      |  [ ]()  | [Show National Contiguity with a Force Directed Graph](./data-vis/force-directed-graph) |  |
 |      |  [ ]()  | [Map Data Across the Globe](./data-vis/data-across-globe) |  |
 |      |  [ ]()  | [Timestamp Microservice](./backend/api-timestamp) |  |
